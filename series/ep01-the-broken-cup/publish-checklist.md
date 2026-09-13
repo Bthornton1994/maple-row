@@ -82,7 +82,7 @@ Two tool gaps are still open in `PRODUCTION-SOP.md`, and `CONTEXT.md` lists the 
   - Protect the silence; it is written to run longer than feels comfortable, and shortening it removes the reason the Short exists.
   - Provisional title: **"It Just Fell" | Telling the Truth**. Same title formula, same thumbnail discipline, same Made for Kids setting.
   - No cliffhanger framing, no "wait for it," no "you won't believe," no comment bait, no links. It is a funnel into the episode and the Skills playlist, not a second story.
-  - `shorts-cut.md` does not exist in this folder yet — write it from `/templates/shorts-cut.md` and confirm the cut against it before publishing.
+  - Not blocked at the writing stage — already written: `shorts-cut.md`. Confirm the finished cut against it before publishing.
 - [ ] Parent-facing description written
   - Not blocked — already written: `parent-description.md`, "Video description (published copy)". Paste the three-sentence block verbatim.
   - Nothing else goes in the box: no URLs, no playlist links, no timestamps, no subscribe ask, no next-episode tease. Addressed to the parent about the child, never to the child.

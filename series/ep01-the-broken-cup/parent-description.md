@@ -66,7 +66,7 @@ No tag names a real school, place, brand, or person, and none targets a child's 
 |---|---|
 | **Skills → Telling the truth** | Primary. Skill pillar 01. This is the pilot and currently the anchor of that playlist; ep09 "The Missing Cookie," ep10 "Not My Drawing," and ep11 "The Late Homework" join it later (all `skill_id` 01). |
 | **Stories** | All episodes, in release order. This is the hand-it-over-and-walk-away playlist, which per the compliance doc is how parents actually use kids content. |
-| **Shorts** | Add once `shorts-cut.md` exists and the cut is published. Not before. |
+| **Shorts** | `shorts-cut.md` is written. Add to the playlist once the cut is actually edited and published — not before. |
 
 Playlist placement is done in YouTube Studio. Do **not** put playlist links in the description — the description stays link-free.
 

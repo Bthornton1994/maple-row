@@ -20,7 +20,7 @@ That moment is **the Scene 2 pause** — `script.md` lines 55–63, source **0:3
 
 **Target: 0:55.** Cap 0:60, floor 0:30 per the template. Trim list at the bottom takes it to 0:46 if the platform cut needs to come in under 50s.
 
-Shot durations below are timed at **~135 wpm plus ~0.5s per speaker handoff** — the natural-read figure the script's own speaker-handoff check uses. The 110 wpm figure in the script's runtime table is a *scene budget* with handoff padding already folded in; using it to time an individual 18-word line would under-book that line by two seconds.
+Shot durations below are timed at **~135 wpm plus ~0.5s per speaker handoff** — the natural-read figure the script's own speaker-handoff check uses. The 110 wpm figure in the script's runtime table is a *scene budget* with handoff padding already folded in; using it to time an individual 17-word line would under-book that line by two seconds.
 
 The 9-second pause is **~16% of the Short and is not negotiable** — `script.md` "Never trimmed" lists it first ("That shot is the episode and it is the Shorts cut"), and `brief.md` says to protect the silence in the edit. It will feel long in a feed. That is the point of it, and the hook caption holds on screen through it so a sound-off viewer is never looking at dead air.
 
@@ -44,7 +44,7 @@ Timecodes are against the **untrimmed 6:38 assembly** published in the `script.m
 
 **The anchor line and the key-frame number in each row below are authoritative; the timecode is a locator, ±1–2s.** If the edit applies the script's trim list, the in-points shift: the Scene 2 pause moves to ~0:35 (trim 8 lands ahead of it), the Scene 4 in-point to ~2:03 (trims 8, 2, 4, 5), and the frame-18 tail to ~4:47 (add trims 3, 9, 1, 7). Trim 3 ("I'm sorry." / "I know.") would join shot 10 straight into shot 11, which tightens this cut rather than breaking it.
 
-**Key-frame numbers** are the 20-frame budget published at the bottom of `script.md`. `shot-list.md` must adopt that numbering verbatim as Shot # 1–20 so these references stay valid.
+**Key-frame numbers** are the 20-frame budget published at the bottom of `script.md`. `shot-list.md` adopts that numbering verbatim as Shot # 1–20, so these references resolve directly against it.
 
 ---
 
@@ -61,11 +61,11 @@ Timecodes are against the **untrimmed 6:38 assembly** published in the `script.m
 | 7 | 10 | 2:16–2:19 | 3s | Lou lifts the drill away and sets it down on the bench, bit up. | **MAYA:** "Don't fix the shelf." · **LOU:** "How come?" |
 | 8 | 11 | 2:42–2:46 | 4s | She lets a breath all the way out. Her shoulders finally come down. Lou has the folded rag in his hands, eyes on his own hands — nothing here is a trap. | **MAYA:** "The shelf's fine. It didn't just fall." |
 | 9 | 11 | 3:02–3:10 | 8s | Steady wide. She has already made the hand-tip gesture; the shot rides her face and his stillness. | **MAYA:** "I dropped it. It was me. It was me the whole time and I said it wasn't." |
-| 10 | 11 | 3:12–3:20 | 8s | Lou sets the folded rag down. That is all he does. No sigh, no head shake. | **LOU:** "Thank you for telling me." · **MAYA:** "Are you mad?" · **LOU:** "About the cup? A little." · "Not at you." |
+| 10 | 12 | 3:12–3:20 | 8s | Lou sets the folded rag down. That is all he does. No sigh, no head shake. | **LOU:** "Thank you for telling me." · **MAYA:** "Are you mad?" · **LOU:** "About the cup? A little." · "Not at you." |
 | 11 | 12 | 3:20–3:23 | 3s | **The payoff image.** Maya's shoulders all the way down for the first time since frame one; one real breath that goes all the way in. Lou reaches up and rubs the two pencil dots off the shelf with his thumb. The shelf is exactly as it was. | Room only. |
 | 12 | 18 | 5:06–5:09 | 3s | The mended cup standing on its own in the flat warm afternoon light, red band coiled beside it, every seam a thin pale line, handle a hair crooked. End text card over it. | Room only. |
 
-**Total 0:55.** Twelve shots, all from four scenes, zero new generations.
+**Total 0:55.** Twelve shots, all from five scenes, zero new generations.
 
 **Where each shot lands inside the Short** (cut time, not source time) — 1 · 0:00 · 2 · 0:04 · 3 · 0:09 · 4 · 0:18 · 5 · 0:20 · 6 · 0:23 · 7 · 0:26 · 8 · 0:29 · 9 · 0:33 · 10 · 0:41 · 11 · 0:49 · 12 · 0:52 · out 0:55. The three landmarks: the pause runs **0:09–0:18**, the lie lands **0:18**, the truth lands **0:33–0:41**.
 
@@ -76,7 +76,7 @@ Timecodes are against the **untrimmed 6:38 assembly** published in the `script.m
 - The permission exchange, "Can I say a thing and you don't get mad?" / "You can say a thing." (2:34–2:40). Best-loved line in the scene and the first casualty of the 60s ceiling. It is the first restore if a longer Shorts format is ever used.
 - Maya's motive, "I wanted to bring you your tea. Like a real job." (2:46). Essential in the episode, not load-bearing in 55 seconds.
 - The closing to-camera "Your Turn" beat (6:12–6:34). The episode breaks the fourth wall exactly once and it stays in the episode. Here the practice is text on the end card instead — same words, no second fourth-wall moment, no 22 seconds spent.
-- Everything from Scene 5 except the finished cup. The repair is the episode's job; the Short only needs to show that a repair happened.
+- Everything from Scene 5. The finished cup in shot 12 is frame 18, from Scene 6. The repair is the episode's job; the Short only needs to show that a repair happened.
 
 ---
 
@@ -167,7 +167,7 @@ Line one is verbatim from the episode's own end card and is the backlog's `pract
 | Nose-scrunch tell used once | Once, source 0:44 / cut 0:16, inside the pause. Not on the cover image, not repeated, not slowed down or emphasized. |
 | Camera: static wide or slow push-in | Both, and only those. Letterboxed rather than cropped so no new framing is invented. |
 | Reuse plates, don't generate | One plate, frames 1 / 3 / 4 / 8 / 10 / 11 / 12 / 18 of the episode's 20. |
-| Grade 2–3 | Longest caption is 10 words. Longest spoken line is 18 words and it is Maya's, from the script. |
+| Grade 2–3 | Longest caption is 10 words. Longest spoken line in this cut is 17 words and it is Maya's, from the script ("I dropped it. It was me. It was me the whole time and I said it wasn't."). |
 | COPPA | No links, no sign-up, no comment prompt, no personal-info ask, nothing addressed to the child viewer except an invitation to say a true thing out loud. |
 
 ---
