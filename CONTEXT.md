@@ -7,11 +7,17 @@
 - Style: simple characters, repeatable worlds, 6–10 min episodes + 30–60s Shorts
 - Production: AI-assisted animation / storyboards / voice; no on-camera host
 - Time per week: **15+ hrs/week** (near full-time push)
-- Tools already in place: **Claude Code**
-- Tools NOT yet in place (open gaps — close these before Week 1 production):
-  - Voice: no tool selected yet. Needed for the "voice" step of the pipeline.
-  - Editing: no tool selected yet. Needed for the "edit / captions" step of the pipeline.
-  - See PRODUCTION-SOP.md for what to pick and why.
+- Tools: **picked, 13 Sept 2026** — see TOOL-DECISIONS.md for the reasoning, costs, risks and the
+  pre-flight test for each.
+  - Scripting, planning, timeline generation: **Claude Code**
+  - Images (frames, plates, thumbnails): **Google Gemini image models**, via AI Studio / API
+  - Voice: **ElevenLabs**, used as speech-to-speech — every line performed into a mic and converted,
+    never typed into a text-to-speech box
+  - Edit + captions: **Shotcut**, version-frozen, timeline generated as `.mlt` by Claude Code
+  - Upload: **YouTube Studio**
+- Three cheap pre-flight tests must pass before Week 1 production starts. They are specified in
+  TOOL-DECISIONS.md and each one is falsifiable in an evening. The image test includes a day-one
+  check that the tool will even accept a stylised cartoon child as a reference image.
 - Starting from: brand new channel
 - Goal: consistent library + path toward YPP monetization
 - Hard rules:

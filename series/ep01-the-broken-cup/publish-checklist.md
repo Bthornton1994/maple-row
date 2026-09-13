@@ -4,18 +4,28 @@
 
 ---
 
-## ⛔ Blocked until: a voice tool is picked and an editor is picked
+## ⛔ Blocked until: three pre-flight tests pass
 
-Two tool gaps are still open in `PRODUCTION-SOP.md`, and `CONTEXT.md` lists the same two:
+All three tools are now picked — images, voice and editor — see `TOOL-DECISIONS.md`. What still
+gates this episode is that each pick is provisional until its cheap test passes, and each test can
+still change the tool:
 
-1. **Voice** — no AI voice tool or real-voice path chosen yet. Needed for the "voice" step of the pipeline. `voice-cast.md` §6 holds the settings to lock the moment one is picked.
-2. **Edit + captions** — no video editor chosen yet. Needed for the "edit / captions" step.
+1. **Image — the "Episode 40" test** (~1 day, under $20). Gates every frame and the thumbnail. Its
+   day-one sub-check comes first: confirm the tool will accept a stylised cartoon child as an
+   uploaded reference at all.
+2. **Voice — the three protected lines** (one evening, under $25). Gates the voice box. Note the
+   method: performed into a mic and converted, **not** typed into a text-to-speech box. `voice-cast.md`
+   §6 holds the settings to lock the day the test passes.
+3. **Editor — the `.mlt` round-trip** (one evening, $0). Gates the edit, the captions and the
+   Shorts cut. If it fails, the fallback is DaVinci Resolve free with hand-assembly — slower, not
+   blocking.
 
-**Content** and **Compliance** can be run right now against the files already in this folder. **Nothing in Production or Publish can be completed until both gaps are closed** — voice gates the voice box, the editor gates the edit/captions box and the Shorts cut, and every Publish box assumes a finished cut exists. The one exception inside Production is the parent-facing description, which is already written and blocked by nothing.
+**Content** and **Compliance** can be run right now against the files already in this folder.
+**Nothing in Production or Publish can be completed until the tests pass** — with one exception
+inside Production: the parent-facing description, which is already written and blocked by nothing.
 
-`trackers/production-board.csv` already carries this on row ep01 as the blocker: *"Voice + editor tools not yet picked."* Clear it there when both are chosen.
-
-*(Related but not one of the two named gaps: the AI image tool for character frames, key shots and the thumbnail is also still unpicked in `PRODUCTION-SOP.md`. The Compliance thumbnail box depends on it.)*
+`trackers/production-board.csv` row ep01 carries this as its blocker. Clear it once the tests pass
+and the episode is live.
 
 ---
 
@@ -95,7 +105,7 @@ Two tool gaps are still open in `PRODUCTION-SOP.md`, and `CONTEXT.md` lists the 
   - Shorts playlist only once the Shorts cut is actually published — not before.
   - Placement happens in YouTube Studio. Do not put playlist links in the description.
 - [ ] `production-board.csv` row updated to "live"
-  - Row ep01, The Broken Cup: `status` script → live, and clear the `blocker` field ("Voice + editor tools not yet picked") once both tools are chosen.
+  - Row ep01, The Broken Cup: `status` → live, and clear the `blocker` field once the three pre-flight tests have passed and the episode is published.
 - [ ] `episode-backlog.csv` row marked produced
   - Row `ep_id` 01, The Broken Cup. The backlog has no status column today — add one (`produced`) rather than overloading `flag`, and use the same column the same way from ep02 on.
   - Per `EPISODE-ENGINE.md`, ep01's folder is finished before ep02 starts. Per `SKILL-MAP.md`, interleave skills — the next episode produced should not be another `skill_id` 01.

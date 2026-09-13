@@ -15,6 +15,8 @@ On one ordinary street, four kids and one steady grown-up figure out — one sma
 | **Gramps Lou** | adult | Runs the fix-it stand on the corner — patient, unhurried, answers questions with questions → money basics, steady problem-solving |
 | **Ms. Rivera** | adult | Maya's teacher, lighter recurring role in school-set episodes → responsibility and safety at school |
 
+All five have locked sheets in `/characters/` — `hero.md`, `friend.md`, `sibling-or-cousin.md`, `adult.md`, `teacher.md`.
+
 One-off classmates and neighbors (like Sam in ep05, "Sam's Crayon") can appear for a single episode without becoming locked recurring characters — keeps the cast small without making the world feel empty.
 
 ## World rules — what never happens in this show

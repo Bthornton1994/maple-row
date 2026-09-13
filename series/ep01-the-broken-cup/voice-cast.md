@@ -2,7 +2,9 @@
 
 *Keyed line-by-line to `script.md` (471 lines, 114 dialogue turns). Cue numbers run 1–114 in script order and are the naming key for the voice session.*
 
-**No voice tool has been selected yet** (CONTEXT.md open gaps; PRODUCTION-SOP.md tool table). This document is deliberately **tool-agnostic**: everything below is performance direction that works whether EP01 ends up recorded with real voices or generated with a synthetic-voice tool. No product, model, or vendor is named or assumed anywhere in this file. The "When a tool is picked" checklist at the bottom is what gets filled in the day that decision is made.
+**A voice tool has since been picked — see `TOOL-DECISIONS.md` §1 — but this document stays deliberately tool-agnostic**, and that is now a feature rather than a gap. Everything below is performance direction that holds whether a line is performed and converted, performed and used raw, or read by a hired voice actor. No product, model, or vendor is named anywhere in this file, so a tool change costs nothing here.
+
+One thing the decision does change, and it changes how you read every direction below: **the method is speech-to-speech, not text-to-speech.** Every line of both characters is performed into a microphone and then converted; Gramps Lou ships as the creator's own voice. So the timing, breath, volume and melody notes in §3 and §4 are instructions to a *performer* — you — not prompts for a model. The matched pairs in §4 are recordable back to back in one sitting for the same reason. The "When a tool is picked" checklist in §6 is what gets filled in the day the pre-flight test passes.
 
 **Two speaking voices in this episode. That is the whole cast.** Maya and Gramps Lou. No Theo, no Nell, no Ms. Rivera, no one-off side character — the conflict only works if Maya is genuinely the only one who was in the room. **No narrator, no host, no announcer, no voice-over of any kind.** The end card is on-screen text and is **not read aloud**.
 

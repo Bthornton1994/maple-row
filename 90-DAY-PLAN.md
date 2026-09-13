@@ -6,23 +6,45 @@ Built around **15+ hrs/week**. Start date assumed: **Monday, Sept 14, 2026**. Ad
 - Lock BIBLE.md and the 4 character sheets (already done in this build — review and confirm, don't re-litigate from scratch).
 - ~~Write 3 scripts: at minimum `ep01` ("The Broken Cup"); stretch to `ep02` and `ep03` briefs if time allows.~~ **Done** — `ep01`'s full episode folder is at `/series/ep01-the-broken-cup/`, and the `ep02` and `ep03` briefs are written.
 - Produce **ep01 end-to-end, even if ugly.** The goal this week is a complete pipeline pass — script → frames → voice → edit → upload — not a polished pilot. Fix quality in week 2+, once the pipeline itself is proven.
-- **Close the two open tool gaps first** (voice, editor — see PRODUCTION-SOP.md). Nothing downstream of scripting can happen without them.
+- ~~**Close the two open tool gaps first** (voice, editor — see PRODUCTION-SOP.md). Nothing downstream of scripting can happen without them.~~ **Tools are picked** — see TOOL-DECISIONS.md. What replaces this is three pre-flight tests, below.
 
-## Location plates — a cost weeks 2 and 3 don't currently account for
+### Day 0 — run three pre-flight tests before any production work
+
+Each is cheap, falsifiable in an evening, and has a named fallback. Run all three *before* starting
+ep01's frames, because each one can still change a tool choice. Full specs in TOOL-DECISIONS.md.
+
+1. **Image — the "Episode 40" test** (~1 day, under $20). Generate the two master character sheets
+   and the fix-it-stand plate, freeze them, generate five pilot frames from them, then open a
+   *fresh session* and regenerate shot 1 from the saved files alone. If the two shot-1 images read
+   as different girls, the pick is wrong. **Do the day-one sub-check first:** confirm the tool will
+   even accept a stylised cartoon child as an uploaded reference. The whole workflow depends on it.
+2. **Voice — the three protected lines** (one evening, under $25). Perform and convert the Scene 2
+   pause and "It just fell," the muffled "I see it! It's by the wheel!", and the skill line. If
+   Maya comes back uncanny, stop and move to the fallback. Do not try to rescue it with settings.
+3. **Editor — the `.mlt` round-trip** (one evening, $0). Hand-build the Shorts cut in the GUI,
+   regenerate the same 55 seconds as a generated project file, then change one number in the source
+   and regenerate. If the corrected file comes back right without hand-fixing, the pipeline is real.
+
+If a test fails, take that tool's fallback and keep going. Do not let a failed test stop Week 1 —
+the fallbacks are all workable, just slower or costlier.
+
+## Location plates — a cost weeks 2 and 3 didn't account for
 
 Week 1 builds one plate: Gramps Lou's fix-it stand, which is the only plate Pilot 01 uses.
-`ep02` is set in Theo's yard and `ep03` in Maya's house — so as scheduled, **weeks 2 and 3 each
-require building a brand-new location plate from scratch on top of a full episode**, back to back.
-That is real work the week-by-week plan below treats as free.
+`ep02` is set in Theo's yard and `ep03` in Maya's house — so as originally scheduled, **weeks 2 and
+3 each had to build a brand-new location plate from scratch on top of a full episode**, back to
+back. That is real work the week-by-week plan below treated as free.
 
-Two options, decide before week 2 starts:
-- **Build both plates during week 1**, alongside Pilot 01, using the slack the 15+ hr budget buys.
-  Preferred — plates are reused for the life of the series, and Theo's yard alone serves ep02, ep19,
-  ep20, ep26, ep30 and ep39.
-- **Or reorder weeks 2–4** so the second new plate doesn't land the week after the first.
+**Decided: build all four plates in week 1 — but not up front.** The expensive part is locking the
+style, not the plates; once the flat cutout look is right for one, the others are a handful of
+generations each. So build the fix-it stand, ship ep01 end-to-end with it, confirm the look
+survives a real edit and export, *then* batch the remaining three in week 1's tail. Building all
+four before the style is proven in motion risks rebuilding all four.
 
-Once all four plates exist, this cost disappears permanently — that's the whole point of the
-four-plate rule in BIBLE.md.
+The reuse is lopsided in your favour: Theo's yard serves ep02, 19, 20, 26, 30 and 39; Maya's house
+serves ep03, 09, 16, 28, 35, 38 and 40; Ridgeline Elementary serves ep05, 11, 18, 24 and 29. One
+week removes this cost for the life of the series — the whole point of the four-plate rule in
+BIBLE.md. See TOOL-DECISIONS.md §4.
 
 ## Weeks 2–4 (Sept 21 – Oct 11) — ep02, ep03, ep04
 - 1 episode per week + 2 Shorts cut from each.
