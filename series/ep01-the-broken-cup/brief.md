@@ -20,7 +20,7 @@
 
 **Locations used:** Gramps Lou's fix-it stand only — one plate, worked in three areas (front counter, high shelf, workbench end). The second-plate allowance goes unused on purpose: the middle of the episode depends on Maya being able to glance up at that shelf.
 
-**Target runtime:** 6 min (honest estimate 6:38 — 585 spoken words at 110 wpm plus 1:19 of held silence; trim list in the script takes it to 6:19) · **Complexity:** S
+**Target runtime:** 6 min (honest estimate 6:38 — 586 spoken words at 110 wpm plus 1:19 of held silence; trim list in the script takes it to 6:17) · **Complexity:** S
 
 ---
 

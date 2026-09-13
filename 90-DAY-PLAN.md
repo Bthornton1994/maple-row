@@ -4,9 +4,25 @@ Built around **15+ hrs/week**. Start date assumed: **Monday, Sept 14, 2026**. Ad
 
 ## Days 1–7 (Sept 14–20) — Week 1
 - Lock BIBLE.md and the 4 character sheets (already done in this build — review and confirm, don't re-litigate from scratch).
-- Write 3 scripts: at minimum `ep01` ("The Broken Cup"); stretch to `ep02` and `ep03` briefs if time allows.
+- ~~Write 3 scripts: at minimum `ep01` ("The Broken Cup"); stretch to `ep02` and `ep03` briefs if time allows.~~ **Done** — `ep01`'s full episode folder is at `/series/ep01-the-broken-cup/`, and the `ep02` and `ep03` briefs are written.
 - Produce **ep01 end-to-end, even if ugly.** The goal this week is a complete pipeline pass — script → frames → voice → edit → upload — not a polished pilot. Fix quality in week 2+, once the pipeline itself is proven.
 - **Close the two open tool gaps first** (voice, editor — see PRODUCTION-SOP.md). Nothing downstream of scripting can happen without them.
+
+## Location plates — a cost weeks 2 and 3 don't currently account for
+
+Week 1 builds one plate: Gramps Lou's fix-it stand, which is the only plate Pilot 01 uses.
+`ep02` is set in Theo's yard and `ep03` in Maya's house — so as scheduled, **weeks 2 and 3 each
+require building a brand-new location plate from scratch on top of a full episode**, back to back.
+That is real work the week-by-week plan below treats as free.
+
+Two options, decide before week 2 starts:
+- **Build both plates during week 1**, alongside Pilot 01, using the slack the 15+ hr budget buys.
+  Preferred — plates are reused for the life of the series, and Theo's yard alone serves ep02, ep19,
+  ep20, ep26, ep30 and ep39.
+- **Or reorder weeks 2–4** so the second new plate doesn't land the week after the first.
+
+Once all four plates exist, this cost disappears permanently — that's the whole point of the
+four-plate rule in BIBLE.md.
 
 ## Weeks 2–4 (Sept 21 – Oct 11) — ep02, ep03, ep04
 - 1 episode per week + 2 Shorts cut from each.

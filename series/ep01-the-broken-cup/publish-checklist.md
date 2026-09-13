@@ -66,13 +66,13 @@ Two tool gaps are still open in `PRODUCTION-SOP.md`, and `CONTEXT.md` lists the 
 **Production**
 - [ ] Voice recorded/generated for every line
   - Blocked: pick the voice tool first, then lock and write down the settings in `voice-cast.md` §6 so episode 12 still sounds like episode 1.
-  - 585 spoken words, two voices only — Maya 326, Gramps Lou 259. No third voice, no crowd, no off-screen extra.
+  - 586 spoken words, two voices only — Maya 326, Gramps Lou 260. No third voice, no crowd, no off-screen extra.
   - Capture the named non-verbal takes and record the matched pairs back to back in one session (`voice-cast.md` §2, §4).
   - Gramps Lou is never performed as a lecture, a test, or a detective. Maya is never performed as foolish.
   - The Scene 2 silence is written, not dead air — do not fill it with a breath take, a hum, or music.
 - [ ] Edit complete, captions on
   - Blocked: pick the editor first.
-  - Runtime: honest estimate 6:38, target 6:00, window 5:00–7:00. Apply `script.md`'s trim list in order and stop when you hit target; all nine cuts land 6:19.
+  - Runtime: honest estimate 6:38, target 6:00, window 5:00–7:00. Apply `script.md`'s trim list in order and stop when you hit target; all nine cuts land 6:17.
   - Never trimmed: the Scene 2 pause and the ~9 seconds around the nose scrunch; frame one and the near-silence after it; "Wait!" and the drill coming off the shelf; "Are you mad?" / "About the cup? A little." / "Not at you."; the relief breath and the thumb rubbing the pencil dots off; Maya's tea motive; the failed first press; Gramps Lou's own confession ("Me." / "Dropped it in the sink." / "Took me till dinner."); and Scene 6's three-item list, the skill line after it, and his single nod.
   - Camera: static wide throughout, exactly three slow push-ins (Scene 2 pause, Scene 3 time-passing, Closing onto the seam). No close-ups, no overheads, no cuts inside a scene, no handheld, no fast cutting.
   - Captions: match the spoken line word for word, including "It just fell." and the skill line. Nothing added, nothing summarized, no caption for the on-screen end-card text beyond what is spoken.

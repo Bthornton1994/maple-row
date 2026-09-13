@@ -13,9 +13,9 @@
 | Character | Apparent age | Vocal quality | Pace | Pitch register | Reference adjectives |
 |---|---|---|---|---|---|
 | **Maya** | 7 (must read 6–8 — never "small adult," never "toddler") | Light and clear with a little air in it. Slight breathiness at low volume, which is where most of this episode lives. Gap-tooth sibilance is welcome, not a defect. No vocal fry, no rasp. | Naturally quick — she is impulsive and she talks ahead of her thinking. But the episode keeps braking her: Scenes 2–3 are her slowest, Scenes 5–6 her most fluent. | Mid-high child register, narrow working range. Most lines sit inside about a fourth. Do not let her swing octave-to-octave for "cute." | Quick · warm · unguarded |
-| **Gramps Lou** | Older adult — lock a single apparent age in the 60s–70s band on day one and never drift (see Open questions). Reads as *the steady neighbour the kids call Gramps*, not as anyone's frail grandfather. | Warm, low, dry, a little sanded. Air behind the voice, never pushed. Consonants soft. Zero effort in the tone — he is always mid-task and half his attention is on the wood. | Unhurried, with real gaps. He is comfortable letting a beat sit. Never fills silence. | Low adult, very flat contour. His questions barely rise. His statements barely fall. | Patient · dry · unbothered |
+| **Gramps Lou** | Older adult — lock a single apparent age in the 60s–70s band on day one and never drift (`/characters/adult.md` gives no number, so whatever the first session records becomes the lock by default — pick it deliberately). Reads as *the steady neighbour the kids call Gramps*, not as anyone's frail grandfather. | Warm, low, dry, a little sanded. Air behind the voice, never pushed. Consonants soft. Zero effort in the tone — he is always mid-task and half his attention is on the wood. | Unhurried, with real gaps. He is comfortable letting a beat sit. Never fills silence. | Low adult, very flat contour. His questions barely rise. His statements barely fall. | Patient · dry · unbothered |
 
-**Spoken split for the session (from the script's runtime table):** Maya 326 words, Gramps Lou 259 words. 585 total, budgeted at 110 wpm plus 1:19 of held silence = 6:38.
+**Spoken split for the session (from the script's runtime table):** Maya 326 words, Gramps Lou 260 words. 586 total, budgeted at 110 wpm plus 1:19 of held silence = 6:38.
 
 ### Voice arc across the episode
 
@@ -102,11 +102,11 @@ Legend: **†** = on the script's trim list (record anyway) · **★** = never t
 | 15 | 77 | Gramps Lou | Well. It was a good cup. | A small full stop of grief. Beat after "Well." Warm, no reproach, no speech coming after it. |
 | 16 | 81 | Gramps Lou | Handle's around here somewhere. It'll turn up. | Practical and unbothered. He is wrong, and he says it like a man who is right. |
 
-### Scene 3 — workbench end, later that morning · 98 words · 0:54 speech + 0:11 held
+### Scene 3 — workbench end, later that morning · 99 words · 0:54 speech + 0:11 held
 
 | # | Script ln | Who | Line | Delivery |
 |---|---|---|---|---|
-| 17 | 92 | Gramps Lou | Bolt tray's yours if you want it. | Offhand gift, workmanlike. No ceremony — he has no idea he is handing her a punishment. |
+| 17 | 92 | Gramps Lou | Bolt jars are yours if you want 'em. | Offhand gift, workmanlike. No ceremony — he has no idea he is handing her a punishment. |
 | 18† | 98 | Maya | Big, middle, small. | Rote, on autopilot, eyes somewhere else. The rhythm of a thing she has said a hundred times **with the energy drained out of it.** Explicitly **not** a sing-song chant. |
 | 19 | 104 | Gramps Lou | Band, please. | Task voice. Half his attention on the chair. |
 | 20 | 106 | Maya | Which one? | A half-beat late. **The lateness is the performance** — leave the gap in the read, don't tighten it. |
@@ -289,7 +289,8 @@ Fill this in **once**, the day the voice decision is made, and save it to a sing
 
 - [ ] **Character-to-voice map**, written out: which voice is Maya, which is Gramps Lou. One voice per character, for the life of the series.
 - [ ] **Reference take per character** — the canonical tuning-fork clip every future session is matched against. Use **cues 9–11** for the pair (his open question, her lie) and **cues 109–110** for Maya alone. Store the audio, not a description of it.
-- [ ] **Record reference takes for the characters who are NOT in this episode** — Theo, Nell, Ms. Rivera — in the same first session, before anything else drifts. They are locked in `/characters/` and they arrive in EP02–EP05.
+- [ ] **Record reference takes for the characters who are NOT in this episode** — Theo and Nell — in the same first session, before anything else drifts. Both are locked in `/characters/`, and Theo arrives as soon as EP02.
+- [ ] **Ms. Rivera is the exception — no reference take yet.** She is recurring per BIBLE.md but has **no locked sheet in `/characters/`** (see `character-sheet.md`), so there is no age, personality, or description to direct a take against, and whatever got recorded would become her lock by default. Lock her sheet in `/characters/` first; record her reference take in the session before her first school-set episode.
 - [ ] **Pronunciation list**, locked now: Maya · Gramps Lou · Maple Row · Theo · Nell · Ms. Rivera · Ridgeline Elementary. Note the stress pattern for each, and whether "Gramps Lou" is ever shortened (it is not).
 - [ ] **Audio format**, identical every episode: sample rate, bit depth, mono/stereo, file type. Suggested default if nothing else is pulling you: 48 kHz / 24-bit / mono / WAV.
 - [ ] **Loudness targets**, written as numbers: dialogue stems and the final mix. Suggested default: final mix −14 LUFS integrated, true peak ≤ −1.0 dBTP.

@@ -102,6 +102,6 @@ The Shorts cut is the Scene 2 pause: Gramps Lou's "What happened?", the long sil
 ## Handoff
 
 - On-screen text in the finished video is **one line**, on the end card: *"Your turn: say one small true thing out loud today."* No links on the card. See `script.md`, Closing.
-- Runtime for the description's "6-minute" claim: honest estimate **6:38**, trimmable to **6:19**. Both round to "6 minutes" for a parent and sit inside the 5:00–7:00 window. If the final cut lands above 7:00, change the description to "7-minute watch" rather than leaving the number stale.
+- Runtime for the description's "6-minute" claim: honest estimate **6:38**, trimmable to **6:17**. Both round to "6 minutes" for a parent and sit inside the 5:00–7:00 window. If the final cut lands above 7:00, change the description to "7-minute watch" rather than leaving the number stale.
 - Series/channel name is **Maple Row**, used exactly that way in tags, the end card, and Maya's closing "See you on Maple Row."
 - Carry the recommended title and thumbnail spec into `publish-checklist.md` unchanged.

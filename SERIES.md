@@ -24,7 +24,10 @@
 9. Gramps Lou & Friends
 10. Maple Row Stories
 
-*Pick one pair (channel + series can match, or the channel can be the "network" name and the series its flagship show — only worth splitting once a second series is realistic, which isn't yet.)*
+**Picked: Maple Row**, for both the channel and the series — option 1 on both lists above, and the name the repo itself carries.
+Not split into a separate network name and show name: that is only worth doing once a second series is realistic, which it isn't yet.
+It is used as the series name throughout the Pilot 01 package — in the end card, in the tags, and in Maya's closing line "See you on Maple Row."
+Changing it later means re-cutting that line and the end card in every finished episode, so change it now or not at all.
 
 ## About text for parents
 Maple Row is a short-story series for kids about the everyday moments that are actually hard — telling the truth, waiting, asking for help, saying sorry with an action instead of just a word. Every episode follows Maya and her neighbors through one real kid problem, one honest attempt, one fix. No lectures, no magic saves — just a street's worth of kids figuring it out, six to ten minutes at a time.

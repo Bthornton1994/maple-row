@@ -15,7 +15,7 @@
 | **Ms. Rivera**, adult | recurring per BIBLE.md (no locked sheet yet) | **No** — deliberate, see below | — |
 | One-off side character | — | **None.** See "No one-off character" below | — |
 
-**Two-voice episode.** Maya and Gramps Lou are the only voices in the cut — no third voice, no crowd, no off-screen extra. Spoken split for the voice session: Maya 326 words, Gramps Lou 259. Carry this into `voice-cast.md`.
+**Two-voice episode.** Maya and Gramps Lou are the only voices in the cut — no third voice, no crowd, no off-screen extra. Spoken split for the voice session: Maya 326 words, Gramps Lou 260. Carry this into `voice-cast.md`.
 
 **One location plate:** Gramps Lou's fix-it stand, worked in three areas (front counter under the high shelf, the high shelf itself, the workbench end). No second plate. Build the plate with **no incidental people in it** — no customer, no passer-by, no neighbor in the background. A stray figure at the stand would quietly contradict the premise that Maya was the only one in the room.
 
@@ -110,7 +110,7 @@ The backlog row's `conflict` field reads, exactly: *"The cup is broken on the fl
 
 The episode's silence belongs to Maya. Nobody else can be in it.
 
-**On BIBLE.md's "like Sam in the pilot."** That parenthetical is stale and should not be read as a casting instruction for this episode. Per `trackers/episode-backlog.csv`, Sam belongs to **ep05, "Sam's Crayon"** — a classroom episode. Sam does not appear in EP01 in any form. Flag for a BIBLE.md cleanup pass; the one-off-characters-are-allowed rule itself is fine, it is only the example reference that points at the wrong episode.
+**On BIBLE.md's one-off-character example.** BIBLE.md used to cite "Sam in the pilot," which was stale: per `trackers/episode-backlog.csv`, Sam belongs to **ep05, "Sam's Crayon"** — a classroom episode. Sam does not appear in EP01 in any form, and could not: the backlog row's conflict requires Maya to be the only one in the room. BIBLE.md has since been corrected to cite ep05. The one-off-characters-are-allowed rule itself was always fine; only the example pointed at the wrong episode.
 
 ---
 

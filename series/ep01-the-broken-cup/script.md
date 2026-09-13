@@ -89,7 +89,7 @@
 
 [VISUAL: A kitchen chair upside down on the bench with a cracked rung. Gramps Lou brushes white glue into the crack, slow and careful. Behind him, up on the shelf, the little cardboard box sits in the dust ring. Keep the box in frame for almost every shot of this scene.]
 
-**GRAMPS LOU:** Bolt tray's yours if you want it.
+**GRAMPS LOU:** Bolt jars are yours if you want 'em.
 
 [VISUAL: Maya climbs onto the stool. Three jars in front of her — big, middle, small. This is her favorite job in the world. Normally she can pick up a bolt without even looking at it.]
 
@@ -416,16 +416,16 @@ Spoken words counted from character lines only — scene headings, performance n
 |---|---|---|---|---|---|
 | 1 | The break — problem in frame one | 16 | 0:09 | 0:15 | 0:24 |
 | 2 | The pause, then the lie | 40 | 0:22 | 0:17 | 0:39 |
-| 3 | Carrying it — the cost, and the wrong repair starts | 98 | 0:54 | 0:11 | 1:05 |
+| 3 | Carrying it — the cost, and the wrong repair starts | 99 | 0:54 | 0:11 | 1:05 |
 | 4 | "Wait" — the drill, and the truth | 123 | 1:07 | 0:10 | 1:17 |
 | 5 | The repair — find it, glue, band, sun | 152 | 1:23 | 0:15 | 1:38 |
 | 6 | Dry, unbanded, and the skill named by Maya | 116 | 1:03 | 0:06 | 1:09 |
 | Closing | Your Turn + end card + push-in on the seam | 40 | 0:22 | 0:05 | 0:27 |
-| **Total** | | **585** | **5:19** | **1:19** | **6:38** |
+| **Total** | | **586** | **5:19** | **1:19** | **6:38** |
 
-**Target 6:00 · acceptable 5:00–7:00 · honest estimate 6:38.** Inside the window with 22 seconds of ceiling to spare, and the trim list below takes it to 6:19 if the edit wants it nearer target.
+**Target 6:00 · acceptable 5:00–7:00 · honest estimate 6:38.** Inside the window with 22 seconds of ceiling to spare, and the trim list below takes it to 6:17 if the edit wants it nearer target.
 
-**Speaker-handoff check** (the line most runtime tables leave out). 114 dialogue turns. A natural read of this dialogue is ~135 wpm, so 585 words is 4:20 of pure speech. The 110 wpm budget books 5:19 — a full minute more — which covers all 114 turns at ~0.5s of handoff each. Handoff is therefore already inside the speech column and is **not** added a second time.
+**Speaker-handoff check** (the line most runtime tables leave out). 114 dialogue turns. A natural read of this dialogue is ~135 wpm, so 586 words is 4:20 of pure speech. The 110 wpm budget books 5:19 — a full minute more — which covers all 114 turns at ~0.5s of handoff each. Handoff is therefore already inside the speech column and is **not** added a second time.
 
 **Closing check.** The "Your Turn" beat is 40 spoken words = 0:22 of speech. The formula calls for a 20-second practice; this is it, not a speech about it.
 
@@ -443,7 +443,7 @@ Spoken words counted from character lines only — scene headings, performance n
 | 8 | Scene 1: shorten the balance-and-fall hold from 0:04 to 0:02 | −0:02 |
 | 9 | Scene 4: shorten the rag-wipe hold | −0:01 |
 
-Cuts 1–9 total −0:19, landing 6:19.
+Cuts 1–9 total −0:21, landing 6:17.
 
 ### Never trimmed
 
@@ -458,7 +458,7 @@ Cuts 1–9 total −0:19, landing 6:19.
 - Scene 6's three-item list ("Sorting was boring. And the peach got warm. And I looked at that shelf about a hundred times") and the skill line straight after it. Without the list, the skill line becomes a maxim.
 - Gramps Lou's single nod after the skill line, and his silence after that.
 
-**Per-character spoken split (for the voice session):** Maya 326 words, Gramps Lou 259. Maya carries the episode and speaks the only lesson line. Gramps Lou's longest single line is 11 words; every one of his lines is a question, a short answer, or a one-line instruction. No monologue anywhere. He has a visible physical task in all six scenes and the closing: carrying and sanding a board, gluing the chair rung, stretching the band, winding a cord, sighting and sawing the strip, wiping glue off his fingers, steadying the crate, holding pieces together, cutting the band, sanding again.
+**Per-character spoken split (for the voice session):** Maya 326 words, Gramps Lou 260. Maya carries the episode and speaks the only lesson line. Gramps Lou's longest single line is 11 words; every one of his lines is a question, a short answer, or a one-line instruction. No monologue anywhere. He has a visible physical task in all six scenes and the closing: carrying and sanding a board, gluing the chair rung, stretching the band, winding a cord, sighting and sawing the strip, wiping glue off his fingers, steadying the crate, holding pieces together, cutting the band, sanding again.
 
 ### Frame budget — collapsed to 20 (publish this count with the shot list)
 
